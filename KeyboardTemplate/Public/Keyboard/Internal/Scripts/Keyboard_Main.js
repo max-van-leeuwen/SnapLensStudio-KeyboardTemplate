@@ -1,5 +1,4 @@
 // Max van Leeuwen - maxvanleeuwen.com
-// snap, insta, twitter @ maxeflats
 
 
 // Event: Lens Turned On
@@ -9,9 +8,8 @@
 //@ui {"widget":"separator"}
 
 //@ui {"widget":"label", "label":""}
-//@ui {"widget":"label", "label":"Keyboard 0.3"}
+//@ui {"widget":"label", "label":"Keyboard 0.4"}
 //@ui {"widget":"label", "label":"Max van Leeuwen"}
-//@ui {"widget":"label", "label":"SC/Insta/Twitter: @maxeflats"}
 //@ui {"widget":"label", "label":"maxvanleeuwen.com/lens-studio-keyboard"}
 //@ui {"widget":"label", "label":""}
 

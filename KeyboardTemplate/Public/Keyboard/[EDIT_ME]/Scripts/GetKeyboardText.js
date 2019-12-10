@@ -1,5 +1,5 @@
 // Max van Leeuwen - maxvanleeuwen.com/lens-studio-keyboard
-// snap, insta, twitter @ maxeflats
+
 
 
 // Drop on a Scene Object to read the Keyboard output to a label!

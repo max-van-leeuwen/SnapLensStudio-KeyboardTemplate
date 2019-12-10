@@ -1,5 +1,4 @@
 // Max van Leeuwen - maxvanleeuwen.com
-// snap, insta, twitter @ maxeflats
 
 
 //@input Asset.Material KeyIdle
