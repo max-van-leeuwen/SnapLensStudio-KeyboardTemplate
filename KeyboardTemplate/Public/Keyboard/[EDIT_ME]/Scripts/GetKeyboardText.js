@@ -20,8 +20,18 @@ var component;
 function EveryFrame (eventData)
 {
 
-	var whatLine = script.CurrentlyActiveLine ? global.KeyboardCurrentLine : script.line - 1;
-	component.text = global.KeyboardResult(whatLine);
+	// in some cases the global var has not been initialized yet, just ignore that
+	try{
+
+		var whatLine = script.CurrentlyActiveLine ? global.KeyboardCurrentLine : script.line - 1;
+		component.text = global.KeyboardResult(whatLine);
+
+	}catch(err){
+
+		// ignore
+		
+	}
+
 }
 
 // start event

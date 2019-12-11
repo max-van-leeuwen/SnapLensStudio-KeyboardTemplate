@@ -3,7 +3,7 @@
     "document_id": "RkOFrJtXqochVfWD63NR",
     "original_document_id": "g9FFPKUO8vafuOaVGMdd",
     "version": "19",
-    "lastChanged": "1575949152391",
+    "lastChanged": "1576044370106",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -29,9 +29,6 @@
         "ResourceUiComponent": {
             "collapsedList": [
                 [
-                    [
-                        "Keyboard"
-                    ],
                     [
                         "Keyboard",
                         "Internal",
@@ -116,6 +113,10 @@
                         "Tween",
                         "Types",
                         "TweenScreenTransform"
+                    ],
+                    [
+                        "Keyboard",
+                        "[EDIT_ME]"
                     ],
                     [
                         "Keyboard",
@@ -1395,7 +1396,7 @@
                     },
                     {
                         "k": "21",
-                        "v": "77ef911cea679511d47a4f4531b55885"
+                        "v": "63c3cf91d3bed422735e63a4829ae679"
                     },
                     {
                         "k": "22",
@@ -1403,7 +1404,7 @@
                     },
                     {
                         "k": "24",
-                        "v": "8be2a02d078564633b0d0c3043dff32a"
+                        "v": "4691420ad51870a569199601461403e2"
                     },
                     {
                         "k": "25",
@@ -1437,9 +1438,9 @@
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2019-12-09T22:18:34",
+                        "lastModified": "2019-12-11T01:02:58",
                         "name": "Public",
-                        "hash": "5925808cbc0013930196aad66dd67b36",
+                        "hash": "bac12ea8e3a3fa275f3ab94cc8372dcd",
                         "children": [
                             {
                                 "isFolder": "false",
@@ -1450,9 +1451,9 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-12-09T22:18:34",
+                                "lastModified": "2019-12-11T01:02:58",
                                 "name": "Keyboard",
-                                "hash": "e5e72477017ad9d1db728764698bb4f3",
+                                "hash": "b2df4b6281ddb8dec23662a7cea06b82",
                                 "children": [
                                     {
                                         "isFolder": "false",
@@ -1463,9 +1464,9 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2019-12-09T22:18:34",
+                                        "lastModified": "2019-12-11T01:02:58",
                                         "name": "Internal",
-                                        "hash": "54e5b715af6671577279751909fe1a3d",
+                                        "hash": "37703fbd2c83de4845cb5662ff329ea6",
                                         "children": [
                                             {
                                                 "isFolder": "false",
@@ -1476,7 +1477,7 @@
                                             },
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2019-12-09T22:18:34",
+                                                "lastModified": "2019-12-11T01:02:58",
                                                 "name": "Materials",
                                                 "hash": "d3bc0926cebcaa0f1941b3665cf675f0",
                                                 "children": [
@@ -1505,9 +1506,9 @@
                                             },
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2019-12-09T22:18:34",
+                                                "lastModified": "2019-12-11T01:02:58",
                                                 "name": "Scripts",
-                                                "hash": "ad875e90375a04ea5068fe07f3f35efc",
+                                                "hash": "687326e0c01ee23a00b1cb0779a17ebe",
                                                 "children": [
                                                     {
                                                         "isFolder": "false",
@@ -1518,9 +1519,9 @@
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2019-12-09T22:38:16",
+                                                        "lastModified": "2019-12-11T01:05:25",
                                                         "name": "Keyboard_Main.js",
-                                                        "hash": "77ef911cea679511d47a4f4531b55885",
+                                                        "hash": "63c3cf91d3bed422735e63a4829ae679",
                                                         "children": ""
                                                     },
                                                     {
@@ -1553,7 +1554,7 @@
                                                     },
                                                     {
                                                         "isFolder": "true",
-                                                        "lastModified": "2019-12-09T22:18:34",
+                                                        "lastModified": "2019-12-11T01:02:58",
                                                         "name": "Tween",
                                                         "hash": "ed6d60323b90155a2b97e2622aa426ee",
                                                         "children": [
@@ -1580,7 +1581,7 @@
                                                             },
                                                             {
                                                                 "isFolder": "true",
-                                                                "lastModified": "2019-12-09T22:18:34",
+                                                                "lastModified": "2019-12-11T01:02:58",
                                                                 "name": "Types",
                                                                 "hash": "90b8d0b6c3bbe7b84667dc98d9575468",
                                                                 "children": [
@@ -1622,9 +1623,9 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2019-12-09T22:18:34",
+                                        "lastModified": "2019-12-11T01:02:58",
                                         "name": "[EDIT_ME]",
-                                        "hash": "a75b323a23a13e5a8995b8d86a387317",
+                                        "hash": "c2ddd23885e4e0ebf6b68ced6d812d86",
                                         "children": [
                                             {
                                                 "isFolder": "false",
@@ -1635,7 +1636,7 @@
                                             },
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2019-12-09T22:18:34",
+                                                "lastModified": "2019-12-11T01:02:58",
                                                 "name": "Fonts",
                                                 "hash": "b976c328e56fe332c32236e37a2ac464",
                                                 "children": [
@@ -1657,7 +1658,7 @@
                                             },
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2019-12-09T22:18:34",
+                                                "lastModified": "2019-12-11T01:02:58",
                                                 "name": "Materials",
                                                 "hash": "56b0aa05a9241970b75645a0d31072eb",
                                                 "children": [
@@ -1700,9 +1701,9 @@
                                             },
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2019-12-09T22:18:34",
+                                                "lastModified": "2019-12-11T01:02:58",
                                                 "name": "Scripts",
-                                                "hash": "5ed4e5a9cafdbafd97ade9ab1fcf59a0",
+                                                "hash": "75d913a5c9c960ff0fe6d3559841cb89",
                                                 "children": [
                                                     {
                                                         "isFolder": "false",
@@ -1713,16 +1714,16 @@
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2019-12-09T22:38:05",
+                                                        "lastModified": "2019-12-11T01:05:02",
                                                         "name": "GetKeyboardText.js",
-                                                        "hash": "8be2a02d078564633b0d0c3043dff32a",
+                                                        "hash": "4691420ad51870a569199601461403e2",
                                                         "children": ""
                                                     }
                                                 ]
                                             },
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2019-12-09T22:18:34",
+                                                "lastModified": "2019-12-11T01:02:58",
                                                 "name": "Textures",
                                                 "hash": "e4e145fe31ee1e0412803aeb28dde813",
                                                 "children": [
@@ -1748,7 +1749,7 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-12-09T22:18:34",
+                                "lastModified": "2019-12-11T01:02:58",
                                 "name": "Stream",
                                 "hash": "59adb24ef3cdbe0297f05b395827453f",
                                 "children": [
@@ -1763,7 +1764,7 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-12-09T22:18:34",
+                                "lastModified": "2019-12-11T01:02:58",
                                 "name": "[REMOVE_ME]",
                                 "hash": "3be037f51630fa5365f9061425a55bfd",
                                 "children": [
@@ -2286,11 +2287,7 @@
             }
         },
         "InspectorController": {
-            "selection": {
-                "objects": [
-                    "1565703679678725:1683"
-                ]
-            }
+            "selection": ""
         },
         "EffectsController": {
             "1": "",

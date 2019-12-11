@@ -8,7 +8,7 @@
 //@ui {"widget":"separator"}
 
 //@ui {"widget":"label", "label":""}
-//@ui {"widget":"label", "label":"Keyboard 0.4"}
+//@ui {"widget":"label", "label":"Keyboard 0.5"}
 //@ui {"widget":"label", "label":"Max van Leeuwen"}
 //@ui {"widget":"label", "label":"maxvanleeuwen.com/lens-studio-keyboard"}
 //@ui {"widget":"label", "label":""}
