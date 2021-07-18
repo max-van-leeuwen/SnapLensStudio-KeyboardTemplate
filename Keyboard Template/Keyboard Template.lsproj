@@ -1,0 +1,542 @@
+{
+    "lens_id": "",
+    "document_id": "wipWqrtnRlLHF468Nvz6",
+    "original_document_id": "wipWqrtnRlLHF468Nvz6",
+    "version": "28",
+    "lastChanged": "1626629034475",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "3",
+            "minor": "4",
+            "patch": "2",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "0",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Keyboard",
+                        "Get Keyboard Text [USE]"
+                    ],
+                    [
+                        "Keyboard",
+                        "Keyboard Keys [EDIT]"
+                    ],
+                    [
+                        "Keyboard",
+                        "Keyboard System"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1618431249223606:37564"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "56814dbefc6c60009fe6066406087653",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "Keyboard",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "1"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1622734518627073:140051",
+                    "1625413081841313:1749686",
+                    "1626627520778448:866569",
+                    "1626628135128601:999262"
+                ]
+            ]
+        },
+        "ObjectTracking3DUIComponent": {
+            "foldedOwnerSceneObjects": ""
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "1618432983251319:389438"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "VFX::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1618431645094041:181052",
+                    "name": "Files\/File8.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1618432983251319:389438",
+                    "name": "Files\/File11",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1626616556732690:557950",
+                    "name": "Files\/File19.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": [
+                        {
+                            "k": "1622734518627073:140051",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ],
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1618431249223606:37564",
+                "1": "1618431371893248:73483",
+                "2": "1626616496149647:546519"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "7",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "8",
+                    "v": "Files\/File8.js"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12.lsmat"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.js"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "970",
+                        "v": "Keyboard"
+                    },
+                    {
+                        "k": "971",
+                        "v": "Keyboard\/Keyboard System.js"
+                    },
+                    {
+                        "k": "974",
+                        "v": "Keyboard\/Keyboard Keys [EDIT].lsmat"
+                    },
+                    {
+                        "k": "978",
+                        "v": "Keyboard\/Get Keyboard Text [USE].js"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "971",
+                        "v": "03bdc586099c80b48064e277395e3857"
+                    },
+                    {
+                        "k": "972",
+                        "v": "0946a442bfd262cc457ff2b637dc263e"
+                    },
+                    {
+                        "k": "973",
+                        "v": "d41d8cd98f00b204e9800998ecf8427e"
+                    },
+                    {
+                        "k": "974",
+                        "v": "69e61cef5fefa5e00aa7d9839a741fd6"
+                    },
+                    {
+                        "k": "975",
+                        "v": "8eb12e1a4f90283af3660774add0f09b"
+                    },
+                    {
+                        "k": "976",
+                        "v": "6741e096abdb0f13ac863c0cc1b23153"
+                    },
+                    {
+                        "k": "977",
+                        "v": "0ce00f12642ffbb1700f826e4801d50d"
+                    },
+                    {
+                        "k": "978",
+                        "v": "b070927ec7342bb9a87d8ea101ec78e7"
+                    },
+                    {
+                        "k": "979",
+                        "v": "5f25863fed8dc50c9c3ef2a41a87d67c"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2021-07-18T18:56:51",
+                        "name": "Public",
+                        "hash": "b1320db24710538f9360490df92ba558",
+                        "children": [
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-07-18T19:21:08",
+                                "name": "Keyboard",
+                                "hash": "7a964139c8e9c5f47e3ce00dae991de1",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-07-18T18:58:57",
+                                        "name": "Get Keyboard Text [USE].js",
+                                        "hash": "b070927ec7342bb9a87d8ea101ec78e7",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-07-18T19:19:08",
+                                        "name": "Keyboard System.js",
+                                        "hash": "03bdc586099c80b48064e277395e3857",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-07-18T19:21:08",
+                                        "name": "Keyboard Keys [EDIT].lsmat",
+                                        "hash": "7df2a0463b39b80417143ad4603c3a9d",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-04-14T22:14:39",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-03-29T20:10:03",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "hidden": "false",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": {
+                            "resourceInfoExportKey": {
+                                "RenderTargetRole": "1"
+                            }
+                        }
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Keyboard",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "970",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Get Keyboard Text [USE]",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "18",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1626616556732690:557950",
+                                "fileId": "19",
+                                "originalId": "18446744073709551615",
+                                "publicId": "978",
+                                "source": "\/private\/var\/folders\/by\/0dhhk3j13j560jxj8p3x4rzr0000gn\/T\/Lens Studio-MtXnTv\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Keyboard Keys [EDIT]",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "15",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1618432983251319:389438",
+                                "fileId": "11",
+                                "originalId": "12",
+                                "publicId": "974",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Keyboard System",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "12",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1618431645094041:181052",
+                                "fileId": "8",
+                                "originalId": "18446744073709551615",
+                                "publicId": "971",
+                                "source": "\/Users\/gsmac31\/Git\/dev-snippets-tricks-and-information\/Script\/simple script template.js",
+                                "additional": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1618431371893248:73483"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        },
+        "Compression::IController": {
+            "compression_info": ""
+        },
+        "AssetLibController": {
+            "itemUidToID": [
+                {
+                    "k": "1626616396440542:514354",
+                    "v": "47OLpVQmp92NPVeCEcRgh4"
+                },
+                {
+                    "k": "1626616396680036:514432",
+                    "v": "47OLpVQmp92NPVeCEcRgh4"
+                }
+            ]
+        }
+    }
+}
