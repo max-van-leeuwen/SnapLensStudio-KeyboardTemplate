@@ -3,7 +3,7 @@
     "document_id": "wipWqrtnRlLHF468Nvz6",
     "original_document_id": "wipWqrtnRlLHF468Nvz6",
     "version": "28",
-    "lastChanged": "1626629034475",
+    "lastChanged": "1636026896252",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -22,8 +22,8 @@
         "lastSavedWith": {
             "type": "Public",
             "major": "4",
-            "minor": "0",
-            "patch": "1",
+            "minor": "7",
+            "patch": "0",
             "build": "0"
         }
     },
@@ -51,7 +51,8 @@
                 [
                     "1618431249223606:37564"
                 ]
-            ]
+            ],
+            "selectionSetList": ""
         },
         "MetaInfoUIComponent": {
             "icon_hash": "56814dbefc6c60009fe6066406087653",
@@ -61,7 +62,8 @@
             ],
             "lens": "Keyboard",
             "applicability": "3",
-            "lens_descriptors": ""
+            "lens_descriptors": "",
+            "HermosaUseAllowed": "false"
         },
         "PreviewUiComponent": {
             "preview_descriptor": {
@@ -83,11 +85,11 @@
                 "back_preview_is_favorite": "false",
                 "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
                 "front_preview_is_favorite": "false",
-                "spectacles_preview_id": "bundle:Preview\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_id": "",
                 "spectacles_preview_is_favorite": "false"
             },
             "preview_ie_project_config": {
-                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
                 "back_preview_is_favorite": "false",
                 "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
                 "front_preview_is_favorite": "false",
@@ -238,6 +240,10 @@
                 {
                     "k": "19",
                     "v": "Files\/File19.js"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21.lsmat"
                 }
             ]
         },
@@ -294,7 +300,7 @@
                     },
                     {
                         "k": "974",
-                        "v": "69e61cef5fefa5e00aa7d9839a741fd6"
+                        "v": "6d01f2da8d14c919c0be84ab8f58c1b1"
                     },
                     {
                         "k": "975",
@@ -314,46 +320,46 @@
                     },
                     {
                         "k": "979",
-                        "v": "5f25863fed8dc50c9c3ef2a41a87d67c"
+                        "v": "381d536e013e23cfd66a4325f6514488"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2021-07-18T18:56:51",
+                        "lastModified": "2021-11-04T12:53:27",
                         "name": "Public",
-                        "hash": "b1320db24710538f9360490df92ba558",
+                        "hash": "4508d115c542d9cea5b34b69190d44dc",
                         "children": [
                             {
                                 "isFolder": "true",
-                                "lastModified": "2021-07-18T19:21:08",
+                                "lastModified": "2021-11-04T12:54:32",
                                 "name": "Keyboard",
-                                "hash": "7a964139c8e9c5f47e3ce00dae991de1",
+                                "hash": "a2b2a4f1625754fe2102b1966d0f47dd",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2021-07-18T18:58:57",
+                                        "lastModified": "2021-11-04T12:53:27",
                                         "name": "Get Keyboard Text [USE].js",
                                         "hash": "b070927ec7342bb9a87d8ea101ec78e7",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2021-07-18T19:19:08",
+                                        "lastModified": "2021-11-04T12:53:27",
                                         "name": "Keyboard System.js",
                                         "hash": "03bdc586099c80b48064e277395e3857",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2021-07-18T19:21:08",
+                                        "lastModified": "2021-11-04T12:54:19",
                                         "name": "Keyboard Keys [EDIT].lsmat",
-                                        "hash": "7df2a0463b39b80417143ad4603c3a9d",
+                                        "hash": "6c6bdddb4c2766e07c57949d70151647",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2021-04-14T22:14:39",
+                                        "lastModified": "2021-11-04T12:53:27",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -362,7 +368,7 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2021-03-29T20:10:03",
+                                "lastModified": "2021-11-04T12:53:27",
                                 "name": "folder.lock",
                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                 "children": ""
@@ -480,11 +486,7 @@
             }
         },
         "InspectorController": {
-            "selection": {
-                "objects": [
-                    "1618431371893248:73483"
-                ]
-            }
+            "selection": ""
         },
         "EffectsController": {
             "1": "",
@@ -515,7 +517,9 @@
             "28": "",
             "29": "",
             "30": "",
-            "31": ""
+            "31": "",
+            "32": "",
+            "33": ""
         },
         "ObjectPrefabController": {
             "state": {
@@ -524,7 +528,7 @@
             "importInfo": ""
         },
         "Compression::IController": {
-            "compression_info": ""
+            "new_compression_info": ""
         },
         "AssetLibController": {
             "itemUidToID": [
@@ -538,5 +542,7 @@
                 }
             ]
         }
-    }
+    },
+    "templateName": "",
+    "templateUrl": ""
 }
