@@ -1,3 +1,5 @@
+2022/03/20: this tool is obsolete, as Lens Studio now has native keyboard access! <br/><br/>
+
 <p><img src="https://maxvanleeuwen.com/wp-content/uploads/gif02.gif" alt="lens studio keyboard" width="161" height="187" /></p>
 <p> </p>
 <p> </p>
